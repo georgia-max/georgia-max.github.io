@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Industrial and Systems Engineering, 2024
+* M.s. in Industrial and Systems Engineering, 2024
+* M.S. in Computer Science, 2024
+* B.S. in Industrial and Systems Engineering, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* 2022-2023 : PhD A.I. Resident
+  * Google [X]
+  * Duties includes: XXXX
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2018-2022: Graduate Research Assistant
+  * Virginia Tech
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr. Konstantinos Triantis
 
 * Summer 2015: Research Assistant
   * Github University
