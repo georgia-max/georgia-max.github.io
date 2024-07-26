@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Georgia Personal Website"
+title                    : "Georgia's Personal Website"
 title_separator          : "-"
 name                     : &name "Georgia Ning-Yuan Liu"
 description              : &description "personal description"
 url                      : https://georgia-max.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : #"academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   name             : "Georgia"
   pronouns         : "she/her"  
   bio              : "Systems Science and Artificial Intelligence"
-  location         : "Earth"
+  location         : "Boston, MA"
   employer         : "Harvard Medical School and Massachusetts General Hospital"
   uri              : https://www.mgh-ita.org/profile/georgial-liu/ 
   email            : gliu26@mgh.harvard.edu
