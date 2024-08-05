@@ -2,9 +2,9 @@
 title: "A Dynamic Model on Organizational Learning and Forgetting based on “Serious” Errors"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/2024-08-06-Oscillation
 venue: "International System Dynamics Conference 2024"
-date: 2014-08-06
+date: 2024-08-06
 location: "Bergen, Norway"
 ---
 
