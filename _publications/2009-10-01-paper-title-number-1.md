@@ -7,7 +7,7 @@ date: 2024-06-27
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/multi-index.pdf'
-citation: '2)	Liu, N. G., Mahmoudi, H., Triantis, K., & Ghaffarzadegan, N. (2024). A multi‐dimensional index of evaluating systems thinking skills from textual data. Systems Research and Behavioral Science. https://doi.org/10.1002/sres.3033![image](https://github.com/user-attachments/assets/6c05a430-1447-4159-909d-5f7c03fb2f79)
+citation: '2)	Liu, N. G., Mahmoudi, H., Triantis, K., & Ghaffarzadegan, N. (2024). A multi‐dimensional index of evaluating systems thinking skills from textual data. Systems Research and Behavioral Science. https://doi.org/10.1002/sres.3033
 '
 ---
 
