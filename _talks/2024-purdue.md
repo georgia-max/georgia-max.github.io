@@ -7,7 +7,7 @@ venue: "School of Industrial Engineering, Purdue Univeristy"
 date: 2024-09-27
 location: "West Lafayette, IN"
 ---
-I'm thrilled to announce that I've been invited as a guest speaker at the Research Colloquium hosted by the Purdue System Thinkers (PurSysT) Club!
+I'm thrilled to announce that I've been invited as a guest speaker at the Research Colloquium hosted by the [Purdue System Thinkers (PurSysT) Club](https://www.google.com/search?client=safari&rls=en&q=Purdue+System+Thinkers+(PurSysT)+Club&ie=UTF-8&oe=UTF-8)
 
 In this presentation I will talk about my recent paper on meausuring System thinking Skills 
 [More information here](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.3033) and generating Causal Loop digrams from text using Large Language Models. 
