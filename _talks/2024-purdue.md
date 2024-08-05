@@ -2,7 +2,7 @@
 title: "Evaluating Systems Thinking Skills from Textual Data and Generating Causal Loop Diagrams Using Large Language Models"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/2024-purdue
 venue: "School of Industrial Engineering, Purdue Univeristy"
 date: 2024-09-27
 location: "West Lafayette, IN"
