@@ -31,7 +31,7 @@ author:
   email            : gliu26@mgh.harvard.edu
 
   # Academic websites
-  ssrn            : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6702227"
+  arxiv            : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6702227"
   googlescholar    : "https://scholar.google.com/citations?user=X9l2k-IAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
