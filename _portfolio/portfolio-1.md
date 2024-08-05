@@ -1,7 +1,6 @@
 ---
-title: "TBD"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Causal Loop Diagram Generator"
+excerpt: "Check out the CLD generator here! "
 collection: portfolio
 ---
-
-In Construction... 
+https://cldgenerator.azurewebsites.net/ 
