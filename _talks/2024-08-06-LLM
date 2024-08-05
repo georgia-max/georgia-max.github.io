@@ -1,0 +1,11 @@
+---
+title: "The Transformative Potential of Large Language Models for System Dynamics Modeling"
+collection: talks
+type: "Conference proceedings talk"
+permalink: /talks/2024-08-06-LLM
+venue: "International System Dynamics Conference 2024"
+date: 2024-08-06
+location: "Bergen, Norway"
+---
+
+I presented this paper in the [2024 international system dynamics conference](https://systemdynamics.org/conference/)! In this presentation In this paper, Iintroduce and test a method for automating the translation of dynamic hypotheses (text) into Casual Loop Diagrams using large language models (LLMs)
