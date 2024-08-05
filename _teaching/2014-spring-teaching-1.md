@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Facility Planning and Logistics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Virginia Tech, Department of Industrial and Systems Engineering"
+date: 2021-05
+location: "Blacksburg, VA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was an instructor of the an undergraduate course Facility Planning and Logistics. In this course, I taught theory, concepts, and methods for designing and analyzing facilities and material flow in manufacturing, storage, and distribution environments. Topic areas include material handling systems, facility layout, facility location, warehousing, distribution, logistics, and transportation
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
