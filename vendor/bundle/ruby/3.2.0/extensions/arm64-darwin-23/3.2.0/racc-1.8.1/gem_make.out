@@ -1,0 +1,19 @@
+current directory: /Users/gl665/Documents/georgia-max.github.io-1/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/gl665/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/gl665/Documents/georgia-max.github.io-1/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250414-67871-f0kxek sitelibdir\=./.gem.20250414-67871-f0kxek clean
+
+current directory: /Users/gl665/Documents/georgia-max.github.io-1/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250414-67871-f0kxek sitelibdir\=./.gem.20250414-67871-f0kxek
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/gl665/Documents/georgia-max.github.io-1/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250414-67871-f0kxek sitelibdir\=./.gem.20250414-67871-f0kxek install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250414-67871-f0kxek/racc
+
+current directory: /Users/gl665/Documents/georgia-max.github.io-1/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250414-67871-f0kxek sitelibdir\=./.gem.20250414-67871-f0kxek clean
