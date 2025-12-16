@@ -11,9 +11,9 @@ Hello!
 
 I’m the founder of [Causena](https://causena.co/), where we’re building the **causal reasoning layer for decision intelligence**. Causena turns unstructured qualitative data—interviews, debriefs, narratives, and reports—into **grounded causal models** that surface the true drivers and feedback loops behind real-world outcomes.
 
-My background is in **machine learning, causal modeling, and systems engineering**, with a focus on building production-ready AI systems that move beyond summarization and prediction. I’ve spent years developing scalable pipelines that translate messy, real-world data—including text and behavioral logs—into interpretable structure that teams can actually use to make decisions. I’m particularly interested in **explainable, auditable AI** for high-stakes environments.
+My background is in **machine learning, causal modeling, and systems engineering**, with a focus on building production-ready AI systems that move beyond summarization and prediction. I’ve spent years developing scalable pipelines that translate messy, real-world data—including text and behavioral logs—into interpretable structure that teams can actually use to make decisions. I’m particularly interested in explainable AI for high-stakes environments.
 
-I hold a **PhD in Industrial and Systems Engineering** and a **Master’s in Computer Science** from Virginia Tech. During my PhD at the
+I hold a PhD in Industrial and Systems Engineering and a Master’s in Computer Science from Virginia Tech. During my PhD at the
 [Systems Performance Lab](https://splvt.com/), I worked on system dynamics modeling, supervised and unsupervised machine learning (Random Forest, XGBoost, ANN), and optimization techniques (DEA) to analyze decision behavior and cognitive workload in operational settings like traffic control centers.
 
 I also spent a year as an AI Researcher at
