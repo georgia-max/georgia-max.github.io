@@ -24,4 +24,4 @@ Previously, I was a Postdoctoral Research Fellow at Harvard Medical School, base
 [MJ Lab](https://mj-lab.mgh.harvard.edu/), where I applied LLMs and NLP to health interview data to evaluate healthcare system performance and decision quality.
 
 📫 Feel free to reach out at  
-[georgia.liu@causena.co](mailto:georgia.liu@causena.co)
+[georgia.liu@causena.co](mailto:georgia@causena.co)
