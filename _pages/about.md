@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <section class="bio" markdown="1">
-I build and evaluate LLMs that turn unstructured text into structured causal knowledge. I'm the founder of [Causena](https://causena.co/), where we turn interviews, debriefs and reports into source-cited causal graphs that show what drives real-world outcomes. Before Causena, I was a Postdoctoral Research Fellow at Harvard Medical School / Massachusetts General Hospital in the [MJ Lab](https://mj-lab.mgh.harvard.edu), where I built benchmarks and extraction pipelines for LLM-generated causal graphs. Before that, I was an AI Resident at [Google X](https://x.company/), using LLMs to automate causal modeling. I did my PhD in Industrial and Systems Engineering with Dr. Konstantinos Triantis in Virginia Tech's [Systems Performance Lab](https://www.spl.ise.vt.edu/index.html), and an MS in Computer Science focused on AI and machine learning.
+I use LLMs to turn interviews, verbatim responses and quotes into causal graphs, and I build benchmarks that measure how closely those graphs match expert-built ones. I'm the founder of [Causena](https://causena.co/), where we turn interviews, debriefs and reports into source-cited causal graphs that show what drives real-world outcomes. Before Causena, I was a Postdoctoral Research Fellow at Harvard Medical School / Massachusetts General Hospital in the [MJ Lab](https://mj-lab.mgh.harvard.edu), where I built a framework for comparing causal graphs on both meaning and structure, and used it to evaluate 2,000 LLM-generated graphs. Before that, I was an AI Resident at [Google X](https://x.company/), using LLMs to automate causal modeling. I did my PhD in Industrial and Systems Engineering with Dr. Konstantinos Triantis in Virginia Tech's [Systems Performance Lab](https://www.spl.ise.vt.edu/index.html), and an MS in Computer Science focused on AI and machine learning.
 
-I'm always happy to talk about LLM evaluation, information extraction, and causal AI for messy qualitative data. Reach me at [georgialiu63@gmail.com](mailto:georgialiu63@gmail.com).
+I'm always happy to talk about LLM evaluation, information extraction, and causal AI for messy qualitative data.
 </section>
 
 <hr>
@@ -22,7 +22,7 @@ I'm always happy to talk about LLM evaluation, information extraction, and causa
       <a class="work-thumb" href="/images/causal-graph-benchmark-table4.png"><img src="/images/causal-graph-benchmark-table4-thumb.png" alt="Table 4: graph similarity scores (G1 to G5) for six variations of a reference causal loop diagram"></a>
       <div>
         <h3>Causal graph benchmark</h3>
-        <p>Reviewed 40+ similarity metrics and validated 9 on 2,000 LLM-generated causal graphs.</p>
+        <p>Reviewed 40+ similarity metrics and evaluated 9 (4 semantic, 5 structural) on 2,000 LLM-generated causal graphs.</p>
         <span class="links-inline"><a href="https://arxiv.org/abs/2503.11046">Paper</a> · <a href="https://github.com/georgia-max/Causalgraph-comparison">Code</a></span>
       </div>
     </li>
@@ -30,7 +30,7 @@ I'm always happy to talk about LLM evaluation, information extraction, and causa
       <a class="work-thumb" href="https://arxiv.org/abs/2503.21798"><img src="/images/cldmaker.gif" alt="Demo: typing a dynamic hypothesis and generating a causal loop diagram"></a>
       <div>
         <h3>LLMs for causal loop diagrams</h3>
-        <p>Curated prompting turns text into expert-quality causal loop diagrams, cutting analysis time 10x.</p>
+        <p>Tested four prompting strategies for turning text into causal loop diagrams; for simple models, the best matched expert-built diagrams.</p>
         <span class="links-inline"><a href="https://arxiv.org/abs/2503.21798">Paper</a> · <a href="/talks/2024-08-06-LLM">Talk</a></span>
       </div>
     </li>
