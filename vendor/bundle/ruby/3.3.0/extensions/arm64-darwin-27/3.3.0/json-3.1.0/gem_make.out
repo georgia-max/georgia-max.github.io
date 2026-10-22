@@ -1,0 +1,30 @@
+current directory: /Users/georgialiu/Github/georgia-max.github.io/vendor/bundle/ruby/3.3.0/gems/json-3.1.0/ext/json/ext/parser
+/opt/homebrew/opt/ruby@3.3/bin/ruby extconf.rb
+checking for rb_enc_interned_str() in ruby/encoding.h... yes
+checking for rb_str_to_interned_str() in ruby.h... yes
+checking for rb_hash_new_capa() in ruby.h... yes
+checking for rb_hash_bulk_insert() in ruby.h... yes
+checking for ruby_xfree_sized() in ruby.h... no
+checking for x86intrin.h... no
+checking for intrin.h... no
+checking for RUBY_TYPED_EMBEDDABLE in ruby.h... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+checking for whether -mno-outline is accepted as CFLAGS... yes
+checking for arm_neon.h... yes
+checking for cpuid.h... no
+creating Makefile
+
+current directory: /Users/georgialiu/Github/georgia-max.github.io/vendor/bundle/ruby/3.3.0/gems/json-3.1.0/ext/json/ext/parser
+make -j3 DESTDIR\= sitearchdir\=./.gem.20261021-23092-7lsyb0 sitelibdir\=./.gem.20261021-23092-7lsyb0 clean
+
+current directory: /Users/georgialiu/Github/georgia-max.github.io/vendor/bundle/ruby/3.3.0/gems/json-3.1.0/ext/json/ext/parser
+make -j3 DESTDIR\= sitearchdir\=./.gem.20261021-23092-7lsyb0 sitelibdir\=./.gem.20261021-23092-7lsyb0
+compiling parser.c
+linking shared-object json/ext/parser.bundle
+
+current directory: /Users/georgialiu/Github/georgia-max.github.io/vendor/bundle/ruby/3.3.0/gems/json-3.1.0/ext/json/ext/parser
+make -j3 DESTDIR\= sitearchdir\=./.gem.20261021-23092-7lsyb0 sitelibdir\=./.gem.20261021-23092-7lsyb0 install
+/usr/bin/install -c -m 0755 parser.bundle ./.gem.20261021-23092-7lsyb0/json/ext
+
+current directory: /Users/georgialiu/Github/georgia-max.github.io/vendor/bundle/ruby/3.3.0/gems/json-3.1.0/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20261021-23092-7lsyb0 sitelibdir\=./.gem.20261021-23092-7lsyb0 clean
