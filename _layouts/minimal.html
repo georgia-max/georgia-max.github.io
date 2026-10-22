@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% include seo.html %}
+  <link rel="icon" href="{{ base_path }}/images/favicon.ico">
+  <link rel="stylesheet" href="{{ base_path }}/assets/css/minimal.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h1><a href="{{ base_path }}/">{{ site.author.name_short | default: site.author.name }}</a></h1>
+      <nav aria-label="Primary">
+        {% for link in site.data.navigation.main %}
+          <a href="{{ base_path }}{{ link.url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
+        {% endfor %}
+      </nav>
+    </header>
+
+    {% if page.title and page.url != "/" %}<h2 class="page-title">{{ page.title }}</h2>{% endif %}
+    {% if page.collection == "talks" or page.collection == "publications" %}<p class="meta">{% if page.type %}{{ page.type }} · {% endif %}{{ page.venue }}{% if page.location %}, {{ page.location }}{% endif %} · {{ page.date | date: "%B %Y" }}</p>{% endif %}
+
+    {{ content }}
+    {% if page.collection == "publications" %}<p class="links-inline">{% if page.paperurl %}<a href="{{ page.paperurl }}">Paper</a>{% endif %}{% if page.codeurl %} · <a href="{{ page.codeurl }}">Code</a>{% endif %}</p>{% endif %}
+
+    <hr>
+
+    <footer>
+      <ul class="links">
+        {% if site.author.email %}<li><a href="mailto:{{ site.author.email }}">Email</a></li>{% endif %}
+        {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>{% endif %}
+        {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>{% endif %}
+        {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a></li>{% endif %}
+        {% if site.author.arxiv %}<li><a href="{{ site.author.arxiv }}">arXiv</a></li>{% endif %}
+        <li><a href="https://causena.co">Causena</a></li>
+      </ul>
+      <p class="copyright">&copy; {{ site.time | date: '%Y' }} {{ site.author.name_short | default: site.author.name }}</p>
+    </footer>
+  </main>
+</body>
+</html>
