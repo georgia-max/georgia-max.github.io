@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I build and evaluate LLM systems that turn unstructured text into structured causal knowledge. I'm the founder of [Causena](https://causena.co/), where we turn interviews, debriefs and reports into source-cited causal graphs that show what drives real-world outcomes. Before Causena, I was a Postdoctoral Research Fellow at Harvard Medical School / Massachusetts General Hospital, where I built benchmarks and extraction pipelines for LLM-generated causal graphs. Before that, I was an AI Resident at [Google X](https://x.company/), using LLMs to automate causal modeling. I hold a PhD in Industrial and Systems Engineering and an MEng in Computer Science from Virginia Tech.
+I build and evaluate LLM systems that turn unstructured text into structured causal knowledge. I'm the founder of [Causena](https://causena.co/), where we turn interviews, debriefs and reports into source-cited causal graphs that show what drives real-world outcomes. Before Causena, I was a Postdoctoral Research Fellow at Harvard Medical School / Massachusetts General Hospital in the [MJ Lab](https://mj-lab.mgh.harvard.edu), where I built benchmarks and extraction pipelines for LLM-generated causal graphs. Before that, I was an AI Resident at [Google X](https://x.company/), using LLMs to automate causal modeling. I hold a PhD in Industrial and Systems Engineering and an MEng in Computer Science from Virginia Tech.
 
 ## Selected work {#selected-work}
 
