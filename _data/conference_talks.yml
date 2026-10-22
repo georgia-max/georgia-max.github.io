@@ -1,0 +1,68 @@
+# Conferences & talks, newest first. Shown on the homepage.
+- title: "Evaluating Systems Thinking Skills from Textual Data and Generating Causal Loop Diagrams Using Large Language Models"
+  type: "Invited talk"
+  venue: "Purdue System Thinkers Club, School of Industrial Engineering, Purdue University"
+  location: "West Lafayette, IN"
+  year: 2024
+  url: /talks/2024-purdue
+
+- title: "The Transformative Potential of Large Language Models for System Dynamics Modeling"
+  type: "Paper presentation"
+  venue: "International System Dynamics Conference"
+  location: "Bergen, Norway"
+  year: 2024
+  url: https://proceedings.systemdynamics.org/2024/abstracts/1229.html
+
+- title: "A Dynamic Model on Organizational Learning and Forgetting Based on Serious Errors"
+  type: "Paper presentation"
+  venue: "International System Dynamics Conference"
+  location: "Bergen, Norway"
+  year: 2024
+  url: https://proceedings.systemdynamics.org/2024/abstracts/1087.html
+  code: https://github.com/georgia-max/OrganizationOscillation
+
+- title: "Fatigue Dynamics in Safety-Critical Monitoring Roles: Evidence from the Belgian Railway Network"
+  type: "Paper presentation"
+  venue: "International System Dynamics Conference"
+  location: "Chicago, IL"
+  year: 2023
+  url: https://proceedings.systemdynamics.org/2023/abstracts/1024.html
+
+- title: "Modeling the Dynamics of Mental Workload and Fatigue in Safety-Critical Monitoring Roles"
+  type: "Paper presentation"
+  venue: "INFORMS Annual Meeting"
+  location: "Indianapolis, IN"
+  year: 2022
+  url: "https://www.abstractsonline.com/pp8/#!/10693/presentation/10512"
+
+- title: "Modeling the Dynamics of Mental Workload and Fatigue in Safety-Critical Monitoring Roles"
+  type: "Paper presentation"
+  venue: "International System Dynamics Conference"
+  location: "Frankfurt, Germany"
+  year: 2022
+  url: https://proceedings.systemdynamics.org/2022/abstracts/1105.html
+
+- title: "Drifting into Danger: Operating at the Edge of Failure"
+  type: "Paper presentation"
+  venue: "European Workshop on Efficiency and Productivity Analysis"
+  location: "Porto, Portugal"
+  year: 2022
+
+- title: "A Multi-dimensional Comprehension Index of Systems Thinking"
+  type: "Paper presentation"
+  venue: "International System Dynamics Conference"
+  location: "Chicago, IL"
+  year: 2021
+  url: https://proceedings.systemdynamics.org/2021/abstracts/1180.html
+
+- title: "A Multi-dimensional Comprehension Index of Systems Thinking"
+  type: "Paper presentation"
+  venue: "Conference of the International Society for Efficiency and Productivity Analysis"
+  location: "Miami, FL"
+  year: 2021
+
+- title: "The Oscillation Behavior of Learning and Forgetting in Safety-Critical Socio-Technical Systems"
+  type: "Paper presentation"
+  venue: "4th Annual Workshop on System Dynamics in Transportation Modeling"
+  location: "UK"
+  year: 2021

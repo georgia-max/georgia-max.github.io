@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-Full list on [Google Scholar](https://scholar.google.com/citations?user=X9l2k-IAAAAJ&hl=en).
-
 <h2>LLMs &amp; evaluation</h2>
 
 <div class="pub" markdown="1">
@@ -42,4 +40,12 @@ Scores systems-thinking skill from open-ended written responses.<br>
 **Workload Dynamics in Safety-Critical Monitoring Roles: Evidence from the Belgian Railway Network**<br>
 Liu, N., Triantis, K., & Roets, B. (2024). *SSRN working paper*.<br>
 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4798034)
+</div>
+
+<h2>Dissertation</h2>
+
+<div class="pub" markdown="1">
+**Enhancing Safety in Critical Monitoring Systems: Investigating the Roles of Human Error, Fatigue, and Organizational Learning in Socio-Technical Environments**<br>
+Liu, N. (2024). *PhD dissertation, Virginia Tech*.<br>
+[VTechWorks](https://vtechworks.lib.vt.edu/items/97cb3893-5a9f-4c9d-9e13-6306719bfe5d)
 </div>

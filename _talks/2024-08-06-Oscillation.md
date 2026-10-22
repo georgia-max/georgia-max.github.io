@@ -3,6 +3,7 @@ title: "A Dynamic Model on Organizational Learning and Forgetting based on “Se
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2024-08-06-Oscillation
+codeurl: "https://github.com/georgia-max/OrganizationOscillation"
 venue: "International System Dynamics Conference 2024"
 date: 2024-08-06
 location: "Bergen, Norway"

@@ -22,7 +22,7 @@
     {% if page.collection == "talks" or page.collection == "publications" %}<p class="meta">{% if page.type %}{{ page.type }} · {% endif %}{{ page.venue }}{% if page.location %}, {{ page.location }}{% endif %} · {{ page.date | date: "%B %Y" }}</p>{% endif %}
 
     {{ content }}
-    {% if page.collection == "publications" %}<p class="links-inline">{% if page.paperurl %}<a href="{{ page.paperurl }}">Paper</a>{% endif %}{% if page.codeurl %} · <a href="{{ page.codeurl }}">Code</a>{% endif %}</p>{% endif %}
+    {% if page.paperurl or page.codeurl %}<p class="links-inline">{% if page.paperurl %}<a href="{{ page.paperurl }}">Paper</a>{% endif %}{% if page.paperurl and page.codeurl %} · {% endif %}{% if page.codeurl %}<a href="{{ page.codeurl }}">Code</a>{% endif %}</p>{% endif %}
 
     <hr>
 
