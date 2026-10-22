@@ -32,9 +32,7 @@
         {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>{% endif %}
         {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>{% endif %}
         {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a></li>{% endif %}
-        {% if site.author.arxiv %}<li><a href="{{ site.author.arxiv }}">arXiv</a></li>{% endif %}
-        <li><a href="https://causena.co">Causena</a></li>
-      </ul>
+        {% if site.author.arxiv %}<li><a href="{{ site.author.arxiv }}">arXiv</a></li>{% endif %}      </ul>
       <p class="copyright">&copy; {{ site.time | date: '%Y' }} {{ site.author.name_short | default: site.author.name }}</p>
     </footer>
   </main>
