@@ -1,0 +1,42 @@
+/* ==========================================================================
+   HOME PAGE (headline + selected work cards)
+   ========================================================================== */
+
+.work-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1em;
+  margin: 1em 0 2em;
+}
+
+.work-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  overflow: hidden;
+
+  img {
+    width: 100%;
+    height: 160px;
+    object-fit: contain;
+    background: #fff;
+    border-bottom: 1px solid $border-color;
+  }
+
+  h3 {
+    margin: 0.75em 0.9em 0.25em;
+    font-size: $type-size-5;
+  }
+
+  p {
+    margin: 0 0.9em 0.75em;
+    font-size: $type-size-6;
+  }
+
+  .work-card__links {
+    margin-top: auto;
+    padding-bottom: 0.9em;
+    font-weight: bold;
+  }
+}

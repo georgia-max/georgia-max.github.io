@@ -3,13 +3,13 @@ title: "Evaluating Systems Thinking Skills from Textual Data and Generating Caus
 collection: talks
 type: "Invited Speaker"
 permalink: /talks/2024-purdue
-venue: "School of Industrial Engineering, Purdue Univeristy"
+venue: "School of Industrial Engineering, Purdue University"
 date: 2024-09-27
 location: "West Lafayette, IN"
 ---
-I'm thrilled to announce that I've been invited as a guest speaker at the Research Colloquium hosted by the [Purdue System Thinkers (PurSysT) Club](https://www.google.com/search?client=safari&rls=en&q=Purdue+System+Thinkers+(PurSysT)+Club&ie=UTF-8&oe=UTF-8)
+I'm thrilled to announce that I've been invited as a guest speaker at the Research Colloquium hosted by the Purdue System Thinkers (PurSysT) Club.
 
-In this presentation I will talk about my recent paper on meausuring System thinking Skills 
-[More information here](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.3033) and generating Causal Loop digrams from text using Large Language Models. 
+In this presentation I will talk about my recent paper on measuring systems thinking skills 
+[More information here](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.3033) and generating causal loop diagrams from text using Large Language Models. 
 
 
